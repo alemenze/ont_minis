@@ -1,4 +1,4 @@
-name: ont-minis
+name: ont_minis
 channels:
   - conda-forge
   - bioconda
